@@ -12,22 +12,22 @@ An embedded wireless two-way chat communication system built with two **Arduino 
 </p>
 
 ---
-
 ### Circuit Schematics & Simulation
 | Proteus Circuit Diagram | Wokwi Interactive Setup |
 | :---: | :---: |
-| <img src="extracted_img_0.png" width="400"/> | <img src="extracted_img_9.png" width="400"/> |
+| <img src="extracted_img_1.jpg" width="400"/> | <img src="extracted_img_9.png" width="400"/> |
 
 | Wokwi Master & Slave | Prototype Setup |
 | :---: | :---: |
-| <img src="extracted_img_7.png" width="400"/> | <img src="extracted_img_1.jpg" width="400"/> |
+| <img src="extracted_img_7.png" width="400"/> | <img src="extracted_img_3.png" width="400"/> |
 
 ---
 
 ### Hardware Implementation
-| Master Device Setup | Slave Device Setup | Complete System Schematics |
+| Master Device Setup | Slave Device Setup | Complete System Hardware |
 | :---: | :---: | :---: |
-| <img src="extracted_img_8.jpg" width="280"/> | <img src="extracted_img_2.jpg" width="280"/> | <img src="extracted_img_3.png" width="280"/> |
+| <img src="extracted_img_8.jpg" width="280"/> | <img src="extracted_img_5.jpg" width="280"/> | <img src="extracted_img_2.jpg" width="280"/> |
+
 ---
 
 
