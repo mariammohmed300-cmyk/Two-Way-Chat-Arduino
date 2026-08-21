@@ -18,17 +18,16 @@ An embedded wireless two-way chat communication system built with two **Arduino 
 | :---: | :---: |
 | <img src="extracted_img_0.png" width="400"/> | <img src="extracted_img_9.png" width="400"/> |
 
-| Wokwi Master & Slave | Wokwi Prototype Setup |
+| Wokwi Master & Slave | Prototype Setup |
 | :---: | :---: |
-| <img src="extracted_img_7.png" width="400"/> | <img src="extracted_img_2.jpg" width="400"/> |
+| <img src="extracted_img_7.png" width="400"/> | <img src="extracted_img_1.jpg" width="400"/> |
 
 ---
 
 ### Hardware Implementation
-| Master Device Setup | Slave Device Setup | Complete System Hardware |
+| Master Device Setup | Slave Device Setup | Complete System Schematics |
 | :---: | :---: | :---: |
-| <img src="extracted_img_8.jpg" width="280"/> | <img src="extracted_img_1.jpg" width="280"/> | <img src="extracted_img_3.png" width="280"/> |
-
+| <img src="extracted_img_8.jpg" width="280"/> | <img src="extracted_img_2.jpg" width="280"/> | <img src="extracted_img_3.png" width="280"/> |
 ---
 
 
