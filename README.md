@@ -8,7 +8,7 @@ An embedded wireless two-way chat communication system built with two **Arduino 
 
 ### Poster Summary
 <p align="center">
-  <img src="extracted_img_5.jpg" alt="Project Poster" width="800"/>
+  <img src="extracted_img_6.png" alt="Project Poster" width="800"/>
 </p>
 
 ---
